@@ -1,0 +1,34 @@
+<dependencies>
+    <androidPackages>
+        <androidPackage spec= "androidx.appcompat:appcompat:1.0.2">
+        </androidPackage>
+        <androidPackage spec= "androidx.constraintlayout:constraintlayout:1.1.3">
+        </androidPackage>
+        <androidPackage spec= "junit:junit:4.12">
+        </androidPackage>
+        <androidPackage spec= "androidx.test.ext:junit:1.1.0">
+        </androidPackage>
+        <androidPackage spec= "androidx.test.espresso:espresso-core:3.1.1">
+        </androidPackage>
+        <!-- MediaPipe deps -->
+        <androidPackage spec= "com.google.flogger:flogger:0.3.1">
+        </androidPackage>
+        <androidPackage spec= "com.google.flogger:flogger-system-backend:0.3.1">
+        </androidPackage>
+        <androidPackage spec= "com.google.code.findbugs:jsr305:3.0.2">
+        </androidPackage>
+        <androidPackage spec= "com.google.guava:guava:27.0.1-android">
+        </androidPackage>
+        <androidPackage spec= "com.google.guava:guava:27.0.1-android">
+        </androidPackage>
+        <androidPackage spec= "com.google.protobuf:protobuf-java:3.11.4">
+        </androidPackage>
+        <!-- CameraX core library -->
+        <androidPackage spec= "androidx.camera:camera-core:1.0.0-beta10">
+        </androidPackage>
+        <androidPackage spec= "androidx.camera:camera-camera2:1.0.0-beta10">
+        </androidPackage>
+        <androidPackage spec= "androidx.camera:camera-lifecycle:1.0.0-beta10">
+        </androidPackage>
+    </androidPackages>
+</dependencies>
